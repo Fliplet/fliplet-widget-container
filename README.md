@@ -1,5 +1,5 @@
 # Fliplet Section
-A Fliplet component that creates a editable text area
+A Fliplet component that creates a HTML section.
 
 To develop widgets, please follow our [widget development guide](http://developers.fliplet.com).
 
