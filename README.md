@@ -16,8 +16,8 @@ $ npm install fliplet-cli -g
 Clone and run for development:
 
 ```
-$ git clone https://github.com/Fliplet/fliplet-widget-text.git
-$ cd fliplet-widget-text
+$ git clone https://github.com/Fliplet/fliplet-widget-section.git
+$ cd fliplet-widget-section
 
 $ fliplet run
 ```
