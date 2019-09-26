@@ -1,0 +1,10 @@
+html,
+body,
+#section-wrapper {
+  height: 100% !important;
+  overflow: hidden;
+}
+
+#section-wrapper {
+  padding: 15px;
+}
