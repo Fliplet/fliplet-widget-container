@@ -1,6 +1,6 @@
 {
-  "name": "Section",
-  "package": "com.fliplet.section",
+  "name": "Container",
+  "package": "com.fliplet.container",
   "version": "1.0.0",
   "icon": "img/icon.png",
   "tags": ["type:component", "category:layout"],
