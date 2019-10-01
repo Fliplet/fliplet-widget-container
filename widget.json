@@ -11,7 +11,8 @@
       "fliplet-studio-ui"
     ],
     "assets": [
-      "css/interface.css"
+      "css/interface.css",
+      "js/interface.js"
     ]
   },
   "build": {
