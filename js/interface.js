@@ -1,4 +1,4 @@
-var widgetId = Fliplet.Widget.getDefaultId();
+var widgetId = parseInt(Fliplet.Widget.getDefaultId(), 10);
 var widgetData = Fliplet.Widget.getData(widgetId) || {};
 
 function saveData() {
