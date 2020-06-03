@@ -17,8 +17,13 @@
     ]
   },
   "build": {
-    "dependencies": [],
-    "assets": []
+    "dependencies": [
+      "jquery"
+    ],
+    "assets": [
+      "js/libs.js",
+      "js/build.js"
+    ]
   },
   "references": [
     "html:richContent"
